@@ -3,16 +3,14 @@ Live2D教学文档
 
 ## 目录
 
-1. [项目介绍](https://xinghuo.xfyun.cn/desk?ch=ORUre#项目介绍)
-2. [系统要求](https://xinghuo.xfyun.cn/desk?ch=ORUre#系统要求)
-3. [安装指南](https://xinghuo.xfyun.cn/desk?ch=ORUre#安装指南)
-4. [快速入门](https://xinghuo.xfyun.cn/desk?ch=ORUre#快速入门)
-5. [基础操作](https://xinghuo.xfyun.cn/desk?ch=ORUre#基础操作)
-6. [高级功能](https://xinghuo.xfyun.cn/desk?ch=ORUre#高级功能)
-7. [常见问题](https://xinghuo.xfyun.cn/desk?ch=ORUre#常见问题)
-8. [贡献指南](https://xinghuo.xfyun.cn/desk?ch=ORUre#贡献指南)
-9. [许可证](https://xinghuo.xfyun.cn/desk?ch=ORUre#许可证)
-10. [联系与支持](https://xinghuo.xfyun.cn/desk?ch=ORUre#联系与支持)
+1. [安装指南](chapter1%2Flive2d的安装.md)
+2. [快速入门]
+3. [基础操作]
+4. [高级功能]
+5. [常见问题]
+6. [贡献指南]
+7. [许可证]
+8. [联系与支持]
 
 ------
 
